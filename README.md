@@ -1,3 +1,3 @@
 # documents
 
-Dit is mijn eerste Github pages pagina.. :-)
+Dit is mijn **eerste** Github pages pagina.. :-)
