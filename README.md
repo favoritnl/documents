@@ -1,6 +1,7 @@
-# documents
+---
+description: Description
+---
 
->Dit is mijn **eerste** Github pages pagina.. :-)
+# New page
 
-  indenting **bold**
-of niet
+Some content
